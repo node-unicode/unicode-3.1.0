@@ -1,0 +1,1 @@
+module.exports={'\u0130':'i','\u0131':'i'}
