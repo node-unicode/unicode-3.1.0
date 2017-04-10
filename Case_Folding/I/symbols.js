@@ -1,1 +1,1 @@
-module.exports={}
+module.exports=new Map([['\u0130','i'],['\u0131','i']])
