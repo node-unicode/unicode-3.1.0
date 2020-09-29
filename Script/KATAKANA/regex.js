@@ -1,0 +1,1 @@
+module.exports=/[\u30A1-\u30FA\u30FD\u30FE\uFF66-\uFF6F\uFF71-\uFF9D]/
